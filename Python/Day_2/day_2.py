@@ -3,8 +3,7 @@ print("Advent Of Code - Day 2")
 PUZZLEINPUT = open('input.txt', 'r').read().split("\n")
 
 #Part 1
-depth = 0
-horizontal = 0
+depth,horizontal = 0,0
 
 for line in PUZZLEINPUT:
     direction = line.split(' ')[0]
@@ -17,11 +16,8 @@ for line in PUZZLEINPUT:
     elif direction == 'down':
         depth += value
 
-
 #Part 2
-depth2 = 0
-horizontal2 = 0
-aim = 0
+depth2,horizontal2,aim = 0,0,0
 
 for line in PUZZLEINPUT:
     direction = line.split(' ')[0]
