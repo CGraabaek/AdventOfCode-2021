@@ -1,34 +1,35 @@
-# AdventOfCode-2021
-
 # My [Advent of Code 2021](http://adventofcode.com/2021) solutions
 My solutions to AoC 2021.
 
 ---
 
-| Day     | Name                                                    | Python                         | 
-|:-------:|:--------------------------------------------------------|:------------------------------:|
-| 01      | [Sonar Sweep][day01]                                  | [:heavy_check_mark:][py01]     |                              
-| 02      | [Dive!][day02]                            | [][py02]     |                              
-| 03      | [TDB][day03]                            | [][py03]     |                              
-| 04      | [TDB][day04]                            | [][py04]     |                              
-| 05      | [TDB][day05]                                | [][py05]     |                              
-| 06      | [TDB][day06]                                 | [][py06]     |                              
-| 07      | [TDB][day07]                            | [][py07]     |                              
-| 08      | [TDB][day08]                            | [][py08]     |                              
-| 09      | [TDB][day09]                            | [][py09]     |                              
-| 10      | [TDB][day10]                            | [][py10]     |                              
-| 11      | [TDB][day11]                            | [][py11]     |                              
-| 12      | [TDB][day12]                            | [][py12]     |                              
-| 13      | [TDB][day13]                            | [][py13]     |                              
-| 14      | [TDB][day14]                            | [][py14]     |                              
-| 15      | [TDB][day15]                            | [][py15]     |                              
-| 16      | [TDB][day16]                            | [][py16]     |                              
-| 17      | [TDB][day17]                            | [][py17]     |                              
-| 18      | [TDB][day18]                            | [][py18]     |                              
-| 19      | [TDB][day19]                            | [][py19]     |                              
-| 20      | [TDB][day20]                            | [][py20]     |                              
-| 21      | [TDB][day21]                            | [][py21]     |                              
-| 22      | [TDB][day22]                            | [][py22]     |                              
+| Day     | Name                                                    | Python                         | Javascript                     | 
+|:-------:|:--------------------------------------------------------|:------------------------------:|:------------------------------:|
+| 01      | [Sonar Sweep][day01]                                    | [:heavy_check_mark:][py01]     | [][js01]     |                              
+| 02      | [Dive!][day02]                                          | [][py02]     | [][js01]     |                              
+| 03      | [TDB][day03]                                            | [][py03]     | [][js02]     |                              
+| 04      | [TDB][day04]                                            | [][py04]     | [][js03]     |                              
+| 05      | [TDB][day05]                                            | [][py05]     | [][js04]     |                              
+| 06      | [TDB][day06]                                            | [][py06]     | [][js05]     |                              
+| 07      | [TDB][day07]                                            | [][py07]     | [][js06]     |                              
+| 08      | [TDB][day08]                                            | [][py08]     | [][js07]     |                              
+| 09      | [TDB][day09]                                            | [][py09]     | [][js08]     |                              
+| 10      | [TDB][day10]                                            | [][py10]     | [][js09]     |                              
+| 11      | [TDB][day11]                                            | [][py11]     | [][js10]     |                              
+| 12      | [TDB][day12]                                            | [][py12]     | [][js11]     |                              
+| 13      | [TDB][day13]                                            | [][py13]     | [][js12]     |                              
+| 14      | [TDB][day14]                                            | [][py14]     | [][js13]     |                              
+| 15      | [TDB][day15]                                            | [][py15]     | [][js14]     |                              
+| 16      | [TDB][day16]                                            | [][py16]     | [][js15]     |                              
+| 17      | [TDB][day17]                                            | [][py17]     | [][js16]     |                              
+| 18      | [TDB][day18]                                            | [][py18]     | [][js17]     |                              
+| 19      | [TDB][day19]                                            | [][py19]     | [][js18]     |                              
+| 20      | [TDB][day20]                                            | [][py20]     | [][js19]     |                              
+| 21      | [TDB][day21]                                            | [][py21]     | [][js20]     |                              
+| 22      | [TDB][day22]                                            | [][py22]     | [][js21]     |                              
+| 23      | [TDB][day23]                                            | [][py23]     | [][js22]     |                              
+| 24      | [TDB][day24]                                            | [][py24]     | [][js23]     |                              
+| 25      | [TDB][day25]                                            | [][py25]     | [][js24]     |                              
 
 
 [day01]: https://adventofcode.com/2021/day/1
@@ -58,28 +59,54 @@ My solutions to AoC 2021.
 [day25]: https://adventofcode.com/2021/day/25
 
 
-[py01]: ./Day_1/day_1.py
-[py02]: ./Day_2/day_2.py
-[py03]: ./Day_3/day_3.py
-[py04]: ./Day_4/day_4.py
-[py05]: ./Day_5/day_5.py
-[py06]: ./Day_6/day_6.py
-[py07]: ./Day_7/day_7.py
-[py08]: ./Day_8/day_8.py
-[py09]: ./Day_9/day_9.py
-[py10]: ./Day_10/day_10.py
-[py11]: ./Day_11/day_11.py
-[py12]: ./Day_12/day_12.py
-[py13]: ./Day_13/day_13.py
-[py14]: ./Day_14/day_14.py
-[py15]: ./Day_15/day_15.py
-[py16]: ./Day_16/day_16.py
-[py17]: ./Day_17/day_17.py
-[py18]: ./Day_18/day_18.py
-[py19]: ./Day_19/day_19.py
-[py20]: ./Day_20/day_20.py
-[py21]: ./Day_21/day_21.py
-[py22]: ./Day_22/day_22.py
-[py22]: ./Day_23/day_23.py
-[py22]: ./Day_24/day_24.py
-[py22]: ./Day_25/day_25.py
+[py01]: ./Python/Day_1/day_1.py
+[py02]: ./Python/Day_2/day_2.py
+[py03]: ./Python/Day_3/day_3.py
+[py04]: ./Python/Day_4/day_4.py
+[py05]: ./Python/Day_5/day_5.py
+[py06]: ./Python/Day_6/day_6.py
+[py07]: ./Python/Day_7/day_7.py
+[py08]: ./Python/Day_8/day_8.py
+[py09]: ./Python/Day_9/day_9.py
+[py10]: ./Python/Day_10/day_10.py
+[py11]: ./Python/Day_11/day_11.py
+[py12]: ./Python/Day_12/day_12.py
+[py13]: ./Python/Day_13/day_13.py
+[py14]: ./Python/Day_14/day_14.py
+[py15]: ./Python/Day_15/day_15.py
+[py16]: ./Python/Day_16/day_16.py
+[py17]: ./Python/Day_17/day_17.py
+[py18]: ./Python/Day_18/day_18.py
+[py19]: ./Python/Day_19/day_19.py
+[py20]: ./Python/Day_20/day_20.py
+[py21]: ./Python/Day_21/day_21.py
+[py22]: ./Python/Day_22/day_22.py
+[py22]: ./Python/Day_23/day_23.py
+[py22]: ./Python/Day_24/day_24.py
+[py22]: ./Python/Day_25/day_25.py
+
+[js01]: ./Javascript/Day_1/day_1.js
+[js02]: ./Javascript/Day_2/day_2.js
+[js03]: ./Javascript/Day_3/day_3.js
+[js04]: ./Javascript/Day_4/day_4.js
+[js05]: ./Javascript/Day_5/day_5.js
+[js06]: ./Javascript/Day_6/day_6.js
+[js07]: ./Javascript/Day_7/day_7.js
+[js08]: ./Javascript/Day_8/day_8.js
+[js09]: ./Javascript/Day_9/day_9.js
+[js10]: ./Javascript/Day_10/day_10.js
+[js11]: ./Javascript/Day_11/day_11.js
+[js12]: ./Javascript/Day_12/day_12.js
+[js13]: ./Javascript/Day_13/day_13.js
+[js14]: ./Javascript/Day_14/day_14.js
+[js15]: ./Javascript/Day_15/day_15.js
+[js16]: ./Javascript/Day_16/day_16.js
+[js17]: ./Javascript/Day_17/day_17.js
+[js18]: ./Javascript/Day_18/day_18.js
+[js19]: ./Javascript/Day_19/day_19.js
+[js20]: ./Javascript/Day_20/day_20.js
+[js21]: ./Javascript/Day_21/day_21.js
+[js22]: ./Javascript/Day_22/day_22.js
+[js22]: ./Javascript/Day_23/day_23.js
+[js22]: ./Javascript/Day_24/day_24.js
+[js22]: ./Javascript/Day_25/day_25.js
