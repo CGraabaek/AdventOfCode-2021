@@ -123,9 +123,8 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 
 ## Previous Years
-<!-- - [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2020/master/.github/badges/completion.json&label=2020)](https://github.com/mariotacke/advent-of-code-2020) -->
-<!-- - [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2019/master/.github/badges/completion.json&label=2019)](https://github.com/mariotacke/advent-of-code-2019)
-- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2018/master/.github/badges/completion.json&label=2018)](https://github.com/mariotacke/advent-of-code-2018)
-- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2017/master/.github/badges/completion.json&label=2017)](https://github.com/mariotacke/advent-of-code-2017)
-- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2016/master/.github/badges/completion.json&label=2016)](https://github.com/mariotacke/advent-of-code-2016) -->
 - [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CGraabaek/AdventOfCode-2015/master/badges/completion.json&label=2015)](https://github.com/CGraabaek/AdventOfCode-2015)
+- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CGraabaek/AdventOfCode-2017/master/badges/completion.json&label=2017)](https://github.com/CGraabaek/AdventOfCode-2017)
+- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CGraabaek/AdventOfCode-2018/master/badges/completion.json&label=2018)](https://github.com/CGraabaek/AdventOfCode-2018)
+- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CGraabaek/AdventOfCode-2019/master/badges/completion.json&label=2019)](https://github.com/CGraabaek/AdventOfCode-2019)
+- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CGraabaek/AdventOfCode-2020/master/badges/completion.json&label=2020)](https://github.com/CGraabaek/AdventOfCode-2020)
