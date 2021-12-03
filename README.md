@@ -119,3 +119,13 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 [js23]: ./Javascript/Day_23/day_23.js
 [js24]: ./Javascript/Day_24/day_24.js
 [js25]: ./Javascript/Day_25/day_25.js
+
+
+
+## Previous Years
+<!-- - [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2020/master/.github/badges/completion.json&label=2020)](https://github.com/mariotacke/advent-of-code-2020) -->
+<!-- - [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2019/master/.github/badges/completion.json&label=2019)](https://github.com/mariotacke/advent-of-code-2019)
+- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2018/master/.github/badges/completion.json&label=2018)](https://github.com/mariotacke/advent-of-code-2018)
+- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2017/master/.github/badges/completion.json&label=2017)](https://github.com/mariotacke/advent-of-code-2017)
+- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2016/master/.github/badges/completion.json&label=2016)](https://github.com/mariotacke/advent-of-code-2016) -->
+- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/CGraabaek/AdventOfCode-2021/badges/completion.json&label=2015)](https://github.com/mariotacke/advent-of-code-2015)
