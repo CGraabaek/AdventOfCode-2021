@@ -2,6 +2,10 @@
 [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CGraabaek/AdventOfCode-2021/master/badges/completion.json)](https://github.com/mariotacke/advent-of-code-2021)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/CGraabaek/AdventOfCode-2021/master/LICENSE)
 
+## Competition
+This is a friendly competition with  [@MadsPoder](https://github.com/MadsPoder)
+
+## Story
 You're minding your own business on a ship at sea when the overboard alarm goes off! You rush to see if you can help. Apparently, one of the Elves tripped and accidentally sent the sleigh keys flying into the ocean!
 
 Before you know it, you're inside a submarine the Elves keep ready for situations like this. It's covered in Christmas lights (because of course it is), and it even has an experimental antenna that should be able to track the keys if you can boost its signal strength high enough; there's a little meter that indicates the antenna's signal strength by displaying 0-50 **stars**.
