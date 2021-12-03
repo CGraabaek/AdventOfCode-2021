@@ -90,9 +90,9 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 [py20]: ./Python/Day_20/day_20.py
 [py21]: ./Python/Day_21/day_21.py
 [py22]: ./Python/Day_22/day_22.py
-[py22]: ./Python/Day_23/day_23.py
-[py22]: ./Python/Day_24/day_24.py
-[py22]: ./Python/Day_25/day_25.py
+[py23]: ./Python/Day_23/day_23.py
+[py24]: ./Python/Day_24/day_24.py
+[py25]: ./Python/Day_25/day_25.py
 
 [js01]: ./Javascript/Day_1/day_1.js
 [js02]: ./Javascript/Day_2/day_2.js
