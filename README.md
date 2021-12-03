@@ -15,30 +15,30 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | Day     | Name                                                    | Python                         | Javascript                     | 
 |:-------:|:--------------------------------------------------------|:------------------------------:|:------------------------------:|
 | 01      | [Sonar Sweep][day01]                                    | [:heavy_check_mark:][py01]     | [:heavy_check_mark:][js01]     |                              
-| 02      | [Dive!][day02]                                          | [:heavy_check_mark:][py02]     | [][js01]     |                              
-| 03      | [Binary Diagnostic][day03]                              | [][py03]     | [][js02]     |                              
-| 04      | [TDB][day04]                                            | [][py04]     | [][js03]     |                              
-| 05      | [TDB][day05]                                            | [][py05]     | [][js04]     |                              
-| 06      | [TDB][day06]                                            | [][py06]     | [][js05]     |                              
-| 07      | [TDB][day07]                                            | [][py07]     | [][js06]     |                              
-| 08      | [TDB][day08]                                            | [][py08]     | [][js07]     |                              
-| 09      | [TDB][day09]                                            | [][py09]     | [][js08]     |                              
-| 10      | [TDB][day10]                                            | [][py10]     | [][js09]     |                              
-| 11      | [TDB][day11]                                            | [][py11]     | [][js10]     |                              
-| 12      | [TDB][day12]                                            | [][py12]     | [][js11]     |                              
-| 13      | [TDB][day13]                                            | [][py13]     | [][js12]     |                              
-| 14      | [TDB][day14]                                            | [][py14]     | [][js13]     |                              
-| 15      | [TDB][day15]                                            | [][py15]     | [][js14]     |                              
-| 16      | [TDB][day16]                                            | [][py16]     | [][js15]     |                              
-| 17      | [TDB][day17]                                            | [][py17]     | [][js16]     |                              
+| 02      | [Dive!][day02]                                          | [:heavy_check_mark:][py02]     | [][js02]     |                              
+| 03      | [Binary Diagnostic][day03]                              | [][py03]     | [][js03]     |                              
+| 04      | [TDB][day04]                                            | [][py04]     | [][js04]     |                              
+| 05      | [TDB][day05]                                            | [][py05]     | [][js05]     |                              
+| 06      | [TDB][day06]                                            | [][py06]     | [][js06]     |                              
+| 07      | [TDB][day07]                                            | [][py07]     | [][js07]     |                              
+| 08      | [TDB][day08]                                            | [][py08]     | [][js08]     |                              
+| 09      | [TDB][day09]                                            | [][py09]     | [][js09]     |                              
+| 10      | [TDB][day10]                                            | [][py10]     | [][js10]     |                              
+| 11      | [TDB][day11]                                            | [][py11]     | [][js11]     |                              
+| 12      | [TDB][day12]                                            | [][py12]     | [][js12]     |                              
+| 13      | [TDB][day13]                                            | [][py13]     | [][js13]     |                              
+| 14      | [TDB][day14]                                            | [][py14]     | [][js14]     |                              
+| 15      | [TDB][day15]                                            | [][py15]     | [][js15]     |                              
+| 16      | [TDB][day16]                                            | [][py16]     | [][js16]     |                              
+| 17      | [TDB][day17]                                            | [][py17]     | [][js17]     |                              
 | 18      | [TDB][day18]                                            | [][py18]     | [][js17]     |                              
-| 19      | [TDB][day19]                                            | [][py19]     | [][js18]     |                              
-| 20      | [TDB][day20]                                            | [][py20]     | [][js19]     |                              
-| 21      | [TDB][day21]                                            | [][py21]     | [][js20]     |                              
-| 22      | [TDB][day22]                                            | [][py22]     | [][js21]     |                              
-| 23      | [TDB][day23]                                            | [][py23]     | [][js22]     |                              
-| 24      | [TDB][day24]                                            | [][py24]     | [][js23]     |                              
-| 25      | [TDB][day25]                                            | [][py25]     | [][js24]     |                              
+| 19      | [TDB][day19]                                            | [][py19]     | [][js19]     |                              
+| 20      | [TDB][day20]                                            | [][py20]     | [][js20]     |                              
+| 21      | [TDB][day21]                                            | [][py21]     | [][js21]     |                              
+| 22      | [TDB][day22]                                            | [][py22]     | [][js22]     |                              
+| 23      | [TDB][day23]                                            | [][py23]     | [][js23]     |                              
+| 24      | [TDB][day24]                                            | [][py24]     | [][js24]     |                              
+| 25      | [TDB][day25]                                            | [][py25]     | [][js25]     |                              
 
 
 [day01]: https://adventofcode.com/2021/day/1
@@ -116,6 +116,6 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 [js20]: ./Javascript/Day_20/day_20.js
 [js21]: ./Javascript/Day_21/day_21.js
 [js22]: ./Javascript/Day_22/day_22.js
-[js22]: ./Javascript/Day_23/day_23.js
-[js22]: ./Javascript/Day_24/day_24.js
-[js22]: ./Javascript/Day_25/day_25.js
+[js23]: ./Javascript/Day_23/day_23.js
+[js24]: ./Javascript/Day_24/day_24.js
+[js25]: ./Javascript/Day_25/day_25.js
