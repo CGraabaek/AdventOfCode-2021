@@ -1,13 +1,22 @@
 # My [Advent of Code 2021](http://adventofcode.com/2021) solutions
-My solutions to AoC 2021.
+[![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CGraabaek/AdventOfCode-2021/master/badges/completion.json)](https://github.com/mariotacke/advent-of-code-2021)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/CGraabaek/AdventOfCode-2021/master/LICENSE)
+
+You're minding your own business on a ship at sea when the overboard alarm goes off! You rush to see if you can help. Apparently, one of the Elves tripped and accidentally sent the sleigh keys flying into the ocean!
+
+Before you know it, you're inside a submarine the Elves keep ready for situations like this. It's covered in Christmas lights (because of course it is), and it even has an experimental antenna that should be able to track the keys if you can boost its signal strength high enough; there's a little meter that indicates the antenna's signal strength by displaying 0-50 **stars**.
+
+Your instincts tell you that in order to save Christmas, you'll need to get all fifty stars by December 25th.
+
+Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants **one star**. Good luck!
 
 ---
 
 | Day     | Name                                                    | Python                         | Javascript                     | 
 |:-------:|:--------------------------------------------------------|:------------------------------:|:------------------------------:|
-| 01      | [Sonar Sweep][day01]                                    | [:heavy_check_mark:][py01]     | [][js01]     |                              
-| 02      | [Dive!][day02]                                          | [][py02]     | [][js01]     |                              
-| 03      | [TDB][day03]                                            | [][py03]     | [][js02]     |                              
+| 01      | [Sonar Sweep][day01]                                    | [:heavy_check_mark:][py01]     | [:heavy_check_mark:][js01]     |                              
+| 02      | [Dive!][day02]                                          | [:heavy_check_mark:][py02]     | [][js01]     |                              
+| 03      | [Binary Diagnostic][day03]                              | [][py03]     | [][js02]     |                              
 | 04      | [TDB][day04]                                            | [][py04]     | [][js03]     |                              
 | 05      | [TDB][day05]                                            | [][py05]     | [][js04]     |                              
 | 06      | [TDB][day06]                                            | [][py06]     | [][js05]     |                              
