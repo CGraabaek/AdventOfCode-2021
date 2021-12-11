@@ -20,10 +20,10 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 |:-------:|:--------------------------------------------------------|:------------------------------:|:------------------------------:|
 | 01      | [Sonar Sweep][day01]                                    | [:heavy_check_mark:][py01]     | [:heavy_check_mark:][js01]     |                              
 | 02      | [Dive!][day02]                                          | [:heavy_check_mark:][py02]     | [][js02]     |                              
-| 03      | [Binary Diagnostic][day03]                              | [][py03]     | [][js03]     |                              
-| 04      | [TDB][day04]                                            | [][py04]     | [][js04]     |                              
-| 05      | [TDB][day05]                                            | [][py05]     | [][js05]     |                              
-| 06      | [TDB][day06]                                            | [][py06]     | [][js06]     |                              
+| 03      | [Binary Diagnostic][day03]                              | [:heavy_check_mark:][py03]     | [][js03]     |                              
+| 04      | [Giant Squid][day04]                                    | [][py04]     | [][js04]     |                              
+| 05      | [Hydrothermal Venture][day05]                           | [][py05]     | [][js05]     |                              
+| 06      | [Lanternfish][day06]                                    | [][py06]     | [][js06]     |                              
 | 07      | [TDB][day07]                                            | [][py07]     | [][js07]     |                              
 | 08      | [TDB][day08]                                            | [][py08]     | [][js08]     |                              
 | 09      | [TDB][day09]                                            | [][py09]     | [][js09]     |                              
