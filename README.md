@@ -21,14 +21,14 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | 01      | [Sonar Sweep][day01]                                    | [:heavy_check_mark:][py01]     | [:heavy_check_mark:][js01]     |                              
 | 02      | [Dive!][day02]                                          | [:heavy_check_mark:][py02]     | [][js02]     |                              
 | 03      | [Binary Diagnostic][day03]                              | [:heavy_check_mark:][py03]     | [][js03]     |                              
-| 04      | [Giant Squid][day04]                                    | [][py04]     | [][js04]     |                              
+| 04      | [Giant Squid][day04]                                    | [:heavy_check_mark:][py04]     | [][js04]     |                              
 | 05      | [Hydrothermal Venture][day05]                           | [][py05]     | [][js05]     |                              
-| 06      | [Lanternfish][day06]                                    | [][py06]     | [][js06]     |                              
-| 07      | [TDB][day07]                                            | [][py07]     | [][js07]     |                              
-| 08      | [TDB][day08]                                            | [][py08]     | [][js08]     |                              
-| 09      | [TDB][day09]                                            | [][py09]     | [][js09]     |                              
-| 10      | [TDB][day10]                                            | [][py10]     | [][js10]     |                              
-| 11      | [TDB][day11]                                            | [][py11]     | [][js11]     |                              
+| 06      | [Lanternfish][day06]                                    | [:heavy_check_mark:][py06]     | [][js06]     |                              
+| 07      | [The Treachery of Whales][day07]                        | [:heavy_check_mark:][py07]     | [][js07]     |                              
+| 08      | [Seven Segment Search][day08]                                            | [][py08]     | [][js08]     |                              
+| 09      | [Smoke Basin][day09]                                            | [][py09]     | [][js09]     |                              
+| 10      | [Syntax Scoring][day10]                                            | [][py10]     | [][js10]     |                              
+| 11      | [Dumbo Octopus][day11]                                            | [][py11]     | [][js11]     |                              
 | 12      | [TDB][day12]                                            | [][py12]     | [][js12]     |                              
 | 13      | [TDB][day13]                                            | [][py13]     | [][js13]     |                              
 | 14      | [TDB][day14]                                            | [][py14]     | [][js14]     |                              
